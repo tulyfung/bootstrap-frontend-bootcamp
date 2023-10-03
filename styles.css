@@ -1,0 +1,27 @@
+body::before{
+  display: block;
+  content: '';
+  height: 70px;
+}
+
+.btncustom{
+  background-color: #6C63FF;
+}
+
+.showcase_button{
+  background-color: #6C63FF;
+}
+
+.instructor_section{
+  background-color: #6C63FF;
+}
+
+.news_letter{
+  background-color: #6C63FF;
+}
+
+@media(min-width: 768px) {
+  .newsletter {
+    width: 50%;
+  }
+}
